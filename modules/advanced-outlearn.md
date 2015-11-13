@@ -18,14 +18,14 @@ Whenever you publish something on Outlearn, it will have an owner. The owner can
 
 Open source projects and companies will find the power of Outlearn Organizations more suited for their needs. By inviting users to an Organization multiple authors can publish and manage content owned by the Organization.
 
-Any Outlearn user can create a new Organization under [My Organizations](https://pilot.outlearn.com/my-organizations) and clicking Add Organization. Once you are a member of an Organization, you can Add a Member under the Members tab. If the person does not have an Outlearn account, you can type in their email to send an invitation. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
+Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/my-organizations) and clicking Add Organization. Once you are a member of an Organization, you can Add a Member under the Members tab. If the person does not have an Outlearn account, you can type in their email to send an invitation. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
 
 
 <!-- @section -->
 
 # Publishing as an Organization
 
-If you are a member of an Organization, you can publish content as that Organization. The logistics work almost the same as when you [publish content as an individual user](https://pilot.outlearn.com/learn/outlearn/outlearn-publishing/1). The only difference is that after you click Add a GitHub Repository, you can choose any Organization that you belong to as the Outlearn Owner for the content. When you publish as an Organization, the learners will only see the information of the Organization and not your user account. No matter which team member publishes the content, it all looks nice and uniform to the world.
+If you are a member of an Organization, you can publish content as that Organization. The logistics work almost the same as when you [publish content as an individual user](https://www.outlearn.com/learn/outlearn/outlearn-publishing/1). The only difference is that after you click Add a GitHub Repository, you can choose any Organization that you belong to as the Outlearn Owner for the content. When you publish as an Organization, the learners will only see the information of the Organization and not your user account. No matter which team member publishes the content, it all looks nice and uniform to the world.
 
 
 

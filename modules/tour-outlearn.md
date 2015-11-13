@@ -15,7 +15,7 @@
 
 # Create an Outlearn Account
 
-You need to [create an Outlearn account](https://pilot.outlearn.com/auth/join) to save any of your progress on the platform. If you want to have one less password to keep track of or if you think you may want to publish something yourself, you can join with your GitHub account. Click "Join With GitHub" so that Outlearn can access and publish your content. GitHub will ask for your permission using a popup like the one below.
+You need to [create an Outlearn account](https://www.outlearn.com/auth/join) to save any of your progress on the platform. If you want to have one less password to keep track of or if you think you may want to publish something yourself, you can join with your GitHub account. Click "Join With GitHub" so that Outlearn can access and publish your content. GitHub will ask for your permission using a popup like the one below.
 
 ![GitHub sign-in popup](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/authorize.png)
 
@@ -26,7 +26,7 @@ You need to [create an Outlearn account](https://pilot.outlearn.com/auth/join) t
 
 # Anatomy of a Path
 
-Learning Paths are core to the Outlearn experience. Each of them has an outline page where you can get a quick overview of what's inside the Path. As an example, check out the [outline for this Path](https://pilot.outlearn.com/learn/outlearn/start-learning). You can see a screenshot below.
+Learning Paths are core to the Outlearn experience. Each of them has an outline page where you can get a quick overview of what's inside the Path. As an example, check out the [outline for this Path](https://www.outlearn.com/learn/outlearn/start-learning). You can see a screenshot below.
 
 ![Outline page](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/outline.png)
 
@@ -56,7 +56,7 @@ Each Module is made up of one or more Sections and they are listed on the right 
 
 Outlearn makes it super easy for individual developers and teams to track their learning progress. Each Section has a check box that you can check either at the end of the Section or from the list of Sections on the right. It's up to you to decide when you are "done" with a Section. Outlearn is built for professional developers and you know best whether you want to spend more time on a topic or move on.
 
-Most Modules also have tasks with checkboxes. Those are the things that the author thinks are most valuable for you to do. Some tasks also have a deliverable where you need to paste in some text to complete the task. If you want to see at a glance how you are doing with a path and what you submitted as deliverables, navigate to [My Learning](https://pilot.outlearn.com/my-learning) and choose the Path you want to see. If you are learning a Path together with you organization, the person with admin rights for the organizations Outlearn account can also see your progress and submissions. Below is an example Progress Report for this path.
+Most Modules also have tasks with checkboxes. Those are the things that the author thinks are most valuable for you to do. Some tasks also have a deliverable where you need to paste in some text to complete the task. If you want to see at a glance how you are doing with a path and what you submitted as deliverables, navigate to [My Learning](https://www.outlearn.com/my-learning) and choose the Path you want to see. If you are learning a Path together with you organization, the person with admin rights for the organizations Outlearn account can also see your progress and submissions. Below is an example Progress Report for this path.
 
 ![Progress report](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/progress.png)
 
@@ -66,7 +66,7 @@ Most Modules also have tasks with checkboxes. Those are the things that the auth
 
 # Your Profile and Settings
 
-You can use the icon at the top right hand corner to edit your profile and settings. Go to Profile and choose Edit Profile to change your name, email, and social links, as well as to choose a profile picture. If you belong to any organizations on Outlearn or have published any Paths, you can see those on your profile page too. Go to [Settings](https://pilot.outlearn.com/settings) to change your password. If you have not already linked your GitHub account with Outlearn, you can do that here too.
+You can use the icon at the top right hand corner to edit your profile and settings. Go to Profile and choose Edit Profile to change your name, email, and social links, as well as to choose a profile picture. If you belong to any organizations on Outlearn or have published any Paths, you can see those on your profile page too. Go to [Settings](https://www.outlearn.com/settings) to change your password. If you have not already linked your GitHub account with Outlearn, you can do that here too.
 
 <!-- @task, "text" : "Add a profile image."-->
 
@@ -76,4 +76,4 @@ You can use the icon at the top right hand corner to edit your profile and setti
 
 # Always Wanted to be an Author?
 
-As you figure out a new sweet technique in your favorite language or framework, why not share that with the world? Outlearn makes it super easy to publish technical learning content and share it with friends, co-workers, or the whole world. To learn more, check out [Publishing Great Learning Content](https://pilot.outlearn.com/learn/outlearn/outlearn-publishing) on Outlearn.
+As you figure out a new sweet technique in your favorite language or framework, why not share that with the world? Outlearn makes it super easy to publish technical learning content and share it with friends, co-workers, or the whole world. To learn more, check out [Publishing Great Learning Content](https://www.outlearn.com/learn/outlearn/outlearn-publishing) on Outlearn.

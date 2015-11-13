@@ -4,9 +4,9 @@ I hope you liked what you saw in this whirlwind tour of Outlearn. We are iterati
 
 Now that you've seen what the platform can do, here are a couple of Paths to try out:
 
-* [Crash Course to Angular](https://pilot.outlearn.com/learn/ShieldSensei/angular-crash-course)
-* [JavaScript Backends with Node.js](https://pilot.outlearn.com/learn/supermegacorp/node-path)
-* [Publishing Great Learning Content on Outlearn](https://pilot.outlearn.com/learn/outlearn/outlearn-publishing)
+* [Crash Course to Angular](https://www.outlearn.com/learn/vkarpov15/angular-crash-course)
+* [JavaScript Backends with Node.js](https://www.outlearn.com/learn/FaisalAbid/node-path)
+* [Publishing Great Learning Content on Outlearn](https://www.outlearn.com/learn/outlearn/outlearn-publishing)
 
-Will Koffel  
-CTO, Outlearn
+Teppo Jouttenus
+Outlearn Content Operations

@@ -10,5 +10,5 @@ Modules are the basic unit of learning in Outlearn. They are combined into Paths
 
 Go ahead and click Continue below to get started!
 
-Will Koffel  
-CTO, Outlearn
+Teppo Jouttenus
+Outlearn Content Operations
