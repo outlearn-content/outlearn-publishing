@@ -5,7 +5,7 @@
 "title" : "Outlearn Kung Fu",
 "description" : "Master the advanced techniques of Outlearn publishing",
 "homepage" : "https://github.com/outlearn-content/outlearn-publishing",
-"freshnessDate" : 2015-06-08,
+"freshnessDate" : 2015-11-20,
 "license" : "CC BY 4.0"
 }
 -->
