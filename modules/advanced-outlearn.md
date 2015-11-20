@@ -1,7 +1,7 @@
 <!--
 {
 "name": "advanced-outlearn",
-"version" : "0.1",
+"version" : "0.1.1",
 "title" : "Outlearn Kung Fu",
 "description" : "Master the advanced techniques of Outlearn publishing",
 "homepage" : "https://github.com/outlearn-content/outlearn-publishing",
