@@ -18,7 +18,9 @@ Whenever you publish something on Outlearn, it will have an owner. The owner can
 
 Open source projects and companies will find the power of Outlearn Organizations more suited for their needs. By inviting users to an Organization multiple authors can publish and manage content owned by the Organization. Organizations on a paid plan can also publish private content that is only visible to members of their organization.
 
-Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/my-organizations) and clicking Add Organization. Once you are a member of an Organization, you can Add a Member under the Members tab. If the person does not have an Outlearn account, you can type in their email to send an invitation. Once the person has accepted the invite, you can promote them to an admin if you want them to publish and manage content for the organization. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
+Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/my-organizations) and clicking Add Organization. To edit the settings for and organization, click the gearwheel icon on the right. You can add a member under the Members tab. If the person does not have an Outlearn account, you can use their email.
+
+Once you add a person, they receive an email invite. If you want them to publish content for the organization, they need to accept the invite after which you can promote them to an admin. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
 
 ![Add a Member](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/add-members.png)
 
@@ -29,7 +31,13 @@ Any Outlearn user can create a new Organization under [My Organizations](https:/
 
 If you are an admin member of an Organization, you can publish content as that Organization. The logistics work almost the same as when you [publish content as an individual user](https://www.outlearn.com/learn/outlearn/outlearn-publishing/1). The only difference is that after you click Add a GitHub Repository, you can choose any Organization that you belong to as the Outlearn Owner for the content. When you publish as an Organization, the learners will only see the information of the Organization and not your user account. No matter which team member publishes the content, it all looks nice and uniform to the world.
 
+<!-- @section -->
 
+# Private Paths and Modules
+
+Paid users of Outlearn can publish private Paths and Modules. Check out the [Outlearn Package (OLP) Specification](https://www.outlearn.com/learn/outlearn/outlearn-publishing/4) for details on how to do that. You should make private all the Modules whose content you want to keep confidential. To also restrict access to the Path overview and the Context Pages, you should additionally make the Path private.
+
+In order to let users see your private Modules and Paths, you must invite them as members to your organization as described above.
 
 
 <!-- @section -->
@@ -38,13 +46,13 @@ If you are an admin member of an Organization, you can publish content as that O
 
 > **Note:** Outlearn Organizations are similar to GitHub organizations but they are totally independent of each other. The example below explains how it works.
 
-You can import **from** any repository you have access to on GitHub. You can import **to** your own Outlearn account or any of your Outlearn organizations.
+You can import **from** any repository you have access to on GitHub. You can import **to** your own Outlearn account or any of your Outlearn organizations where you have admin access.
 
 Let's say that you are a member of a GitHub organization called Delightsome that contains the source code and documentation for Delightsome Database. When you go to Import Content in Outlearn and click Add a GitHub Repository, you will be able to import content from repos owned by Delightsome.
 
 When you import any repo, you can assign ownership to yourself or to any Outlearn Organization that you are a member of. Outlearn does not require that the GitHub organization and the Outlearn Organization be the same. In order to be able to import Delightsome content from GitHub into the Delightsome Outlearn Organization, you need to be a member of Delightsome both on GitHub and Outlearn.
 
-Often, your team will share access both to a Github repository with the source of the content, and to the Organization on Outlearn. Note that if you configure a GitHub content import source yourself with auto-import settings, any GitHub user who pushes to the `master` branch will trigger a re-import to Outlearn, whether or not that user is a member of the Outlearn Organization.
+Often, your team will share access both to a Github repository with the source of the content, and to the Organization on Outlearn. Note that if you set up a GitHub content source to import with auto-import settings, any GitHub user who pushes to the `master` branch will trigger a re-import to Outlearn, whether or not that user is a member of the Outlearn Organization.
 
 
 <!-- @section -->
@@ -80,4 +88,4 @@ A remote Outlearn Module must be available at the time of import. For example, i
 
 > **Note:** If you import a Path to Outlearn Organization Delightsome and it includes a Module owned by Delightsome coming from a different repo, you still need to specify the owner.
 
-The easiest way to keep your Modules and Paths up-to-date is to set them to Autoimport. However, when you update a Module and want to see the changes in a path that is declared in a separate repo, you need to manually re-import the Path because Outlearn does not currently track whether any of the Modules of a Path that are declared in another repo have changed.
+The easiest way to keep your Modules and Paths up-to-date is to set them to auto-import. However, when you update a Module and want to see the changes in a path that is declared in a separate repo, you need to manually re-import the Path because Outlearn does not currently track whether any of the Modules of a Path that are declared in another repo have changed.
