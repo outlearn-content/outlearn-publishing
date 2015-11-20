@@ -16,16 +16,18 @@
 
 Whenever you publish something on Outlearn, it will have an owner. The owner can be an individual user or an Outlearn Organization. If you are an individual developer blogger or independent consultant, you are usually best served by publishing your Modules and paths under your own name. Go ahead and build your own brand and get a massive Outlearn following!
 
-Open source projects and companies will find the power of Outlearn Organizations more suited for their needs. By inviting users to an Organization multiple authors can publish and manage content owned by the Organization.
+Open source projects and companies will find the power of Outlearn Organizations more suited for their needs. By inviting users to an Organization multiple authors can publish and manage content owned by the Organization. Organizations on a paid plan can also publish private content that is only visible to members of their organization.
 
-Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/my-organizations) and clicking Add Organization. Once you are a member of an Organization, you can Add a Member under the Members tab. If the person does not have an Outlearn account, you can type in their email to send an invitation. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
+Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/my-organizations) and clicking Add Organization. Once you are a member of an Organization, you can Add a Member under the Members tab. If the person does not have an Outlearn account, you can type in their email to send an invitation. Once the person has accepted the invite, you can promote them to an admin if you want them to publish and manage content for the organization. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
+
+![Add a Member](https://raw.githubusercontent.com/outlearn-content/outlearn-publishing/master/images/add-members.png)
 
 
 <!-- @section -->
 
 # Publishing as an Organization
 
-If you are a member of an Organization, you can publish content as that Organization. The logistics work almost the same as when you [publish content as an individual user](https://www.outlearn.com/learn/outlearn/outlearn-publishing/1). The only difference is that after you click Add a GitHub Repository, you can choose any Organization that you belong to as the Outlearn Owner for the content. When you publish as an Organization, the learners will only see the information of the Organization and not your user account. No matter which team member publishes the content, it all looks nice and uniform to the world.
+If you are an admin member of an Organization, you can publish content as that Organization. The logistics work almost the same as when you [publish content as an individual user](https://www.outlearn.com/learn/outlearn/outlearn-publishing/1). The only difference is that after you click Add a GitHub Repository, you can choose any Organization that you belong to as the Outlearn Owner for the content. When you publish as an Organization, the learners will only see the information of the Organization and not your user account. No matter which team member publishes the content, it all looks nice and uniform to the world.
 
 
 
