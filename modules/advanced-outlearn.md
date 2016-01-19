@@ -18,7 +18,7 @@ Whenever you publish something on Outlearn, it will have an owner. The owner can
 
 Open source projects and companies will find the power of Outlearn Organizations more suited for their needs. By inviting users to an Organization multiple authors can publish and manage content owned by the Organization. Organizations on a paid plan can also publish private content that is only visible to members of their organization.
 
-Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/my-organizations) and clicking Add Organization. To edit the settings for and organization, click the gearwheel icon on the right. You can add a member under the Members tab. If the person does not have an Outlearn account, you can use their email.
+Any Outlearn user can create a new Organization under [My Organizations](https://www.outlearn.com/organizations) and clicking Add Organization. To edit the settings for and organization, click the gearwheel icon on the right. You can add a member under the Members tab. If the person does not have an Outlearn account, you can use their email.
 
 Once you add a person, they receive an email invite. If you want them to publish content for the organization, they need to accept the invite after which you can promote them to an admin. Creating awesome content is often a team sport and we'd hate to have anyone feel left out.
 
